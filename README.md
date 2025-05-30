@@ -11,6 +11,6 @@ This portfolio highlights some of my engineering projects across FEA, CFD, desig
 
 # Resume & Links
 
-- [My Resume (PDF)](./Resume.pdf)
+- [My Resume (PDF)](./Ethan-Tampa-Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/ethantampa)
 - [Email Me](mailto:tampaethan@gmail.com)
