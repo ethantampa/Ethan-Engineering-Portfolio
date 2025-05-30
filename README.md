@@ -5,7 +5,7 @@ This portfolio highlights some of my engineering projects across FEA, CFD, desig
 
 # Projects
 
-- [Bracket FEA Analysis](./Automatic-Plant-Watering-Robot/)
+- [Bracket FEA Analysis](./Automatic Plant Watering Robot/)
 - [Airfoil CFD Study](./CFD-Airfoil-Study/)
 - [Arduino Plant Watering System](./Arduino-Watering-System/)
 
