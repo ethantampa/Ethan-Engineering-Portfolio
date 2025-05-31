@@ -6,7 +6,7 @@ This portfolio highlights some of my engineering projects across FEA, CFD, desig
 # Projects
 
 - [Arduino Plant Watering System](./Automatic-Plant-Watering-Robot/)
-- [Airfoil CFD Study](./CFD-Airfoil-Study/)
+- [Busbar Connection Research](./Busbar%20Conenction%20Research/)
 
 
 # Resume & Links
