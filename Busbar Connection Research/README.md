@@ -19,38 +19,28 @@ Electronic systems aboard aircraft must operate reliably at **high altitudes**, 
 - Conducted experiments at multiple torque levels and stack-up configurations for varying samples and materials
 - Recorded trends in resistance vs. mechanical assembly and material
 
-## ⚙️ Test Setup
+## Test Setup
 
-- **Test Rig:**
+**Test Rig**
 - Hydraulic press with load cell + DAQ for real-time force tracking of coin samples
 - Torque wrench + DAQ for bolt configurations
-- **Contact Setups:**
+**Contact Setups**
 - Small coin stacked under larger coin; contact area defined by the smaller coin
 - Sample cuts of metal bolted together in varying orientations representative of busbar connections. 
-- **Measurement:** Micro-ohmmeter (4-wire) to track resistance while varying contact pressure
-- **Materials Tested:**  
-  - Aluminum 6061-T6  
-  - Aluminum 1100-H14  
-  - Copper 110 H02
+**Measurement**
+- Micro-ohmmeter (4-wire) to track resistance while varying contact pressure
+**Materials Tested:**
+- Aluminum 6061-T6
+- Aluminum 1100-H14
+- Copper 110-H02
 
 ## Results Summary
-> _Plots and images coming soon._  
-> _Add `resistance-vs-torque-plot.png` or `test-fixture-diagram.png` here once available._
-
-- Increasing bolt torque consistently lowered resistance until plateau
-- Certain washer configurations reduced variability between tests
-- Vertical bolt orientations showed slightly higher variability in resistance
-- Identified an optimal torque and stack-up spec to be standardized across future programs
+- Resistance **decreased with increasing contact pressure**, then plateaued
+- **Copper** showed lower and more stable resistance than **aluminum** alloys
+- Dual horizontal bolts gave slightly more consistent resistance than vertical
+- Washer configurations had measurable impact on variability
 
 ## Outcome
-Recommendations from this research were integrated into new design guidelines used by multiple aerospace programs at Astronics AES to improve the thermal performance of power distribution systems at altitude.
-
----
-
-### Files
-```bash
-Busbar-Resistance-Study/
-├── README.md
-├── resistance-vs-torque-plot.png      # ← add your plots here
-├── test-fixture-diagram.png
-└── Busbar_Tech_Report.pdf  
+- Created a replicable test procedure for contact resistance evaluation
+- Contributed to torque spec validation and contact guidelines at Astronics AES
+- Research results informed design and assembly guidelines for future busbar implementations
