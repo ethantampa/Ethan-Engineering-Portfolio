@@ -1,5 +1,5 @@
 # Busbar Contact Resistance Research  
-**Astronics AES – Summer 2024 Internship**
+**Astronics AES – Summer 2024 Internship Project**
 
 ## Objective
 Investigate how **bolt stack-up configurations**, **torque specifications**, and **bolt orientations** influence the **electrical contact resistance** in busbar connections. The goal was to optimize busbar connection design to **minimize heat generation** in low-pressure aerospace environments.
