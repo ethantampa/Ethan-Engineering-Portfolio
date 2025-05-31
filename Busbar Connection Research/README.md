@@ -14,13 +14,13 @@ Electronic systems aboard aircraft must operate reliably at **high altitudes**, 
 - Can mechanical standardization improve electrical consistency?
 
 ## Methods
+[Download the full test procedure PDF](./Busbar%20Contact%20Resistance%20Testing%20Procedure.pdf)
 - Designed and assembled controlled test rigs replicating real-world busbar configurations
 - Used a **4-wire Kelvin measurement** method to accurately capture micro-ohm-level resistance
 - Conducted experiments at multiple torque levels and stack-up configurations for varying samples and materials
 - Recorded trends in resistance vs. mechanical assembly and material
 
 ## Test Setup
-
 ### Test Rig
 - Hydraulic press with load cell + DAQ for real-time force tracking of coin samples
 - Torque wrench + DAQ for bolt configurations
