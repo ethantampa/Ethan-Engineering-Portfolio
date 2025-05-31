@@ -15,9 +15,23 @@ Electronic systems aboard aircraft must operate reliably at **high altitudes**, 
 
 ## Methods
 - Designed and assembled controlled test rigs replicating real-world busbar configurations
-- Used a **4-wire Kelvin measurement** method to accurately capture milliohm-level resistance
+- Used a **4-wire Kelvin measurement** method to accurately capture micro-ohm-level resistance
 - Conducted experiments at multiple torque levels and stack-up configurations for varying samples and materials
 - Recorded trends in resistance vs. mechanical assembly and material
+
+## ⚙️ Test Setup
+
+- **Test Rig:**
+- Hydraulic press with load cell + DAQ for real-time force tracking of coin samples
+- Torque wrench + DAQ for bolt configurations
+- **Contact Setups:**
+- Small coin stacked under larger coin; contact area defined by the smaller coin
+- Sample cuts of metal bolted together in varying orientations representative of busbar connections. 
+- **Measurement:** Micro-ohmmeter (4-wire) to track resistance while varying contact pressure
+- **Materials Tested:**  
+  - Aluminum 6061-T6  
+  - Aluminum 1100-H14  
+  - Copper 110 H02
 
 ## Results Summary
 > _Plots and images coming soon._  
