@@ -5,8 +5,8 @@ This portfolio highlights some of my engineering projects across FEA, CFD, desig
 
 # Projects
 
-- [Arduino Plant Watering System](./Automatic-Plant-Watering-Robot/)
-- [Busbar Connection Research](./Busbar%20Conenction%20Research/)
+- [Arduino Plant Watering System](./Arduino%20Plant%20Waterer/)
+- [Busbar Connection Research](./Busbar%20Connection%20Research/)
 
 
 # Resume & Links
