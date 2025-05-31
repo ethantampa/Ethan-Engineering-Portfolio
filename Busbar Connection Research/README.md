@@ -21,18 +21,18 @@ Electronic systems aboard aircraft must operate reliably at **high altitudes**, 
 
 ## Test Setup
 
-**Test Rig**
+### Test Rig
 - Hydraulic press with load cell + DAQ for real-time force tracking of coin samples
 - Torque wrench + DAQ for bolt configurations
 
-**Contact Setups**
+### Contact Setups
 - Small coin stacked under larger coin; contact area defined by the smaller coin
 - Sample cuts of metal bolted together in varying orientations representative of busbar connections. 
 
-**Measurement**
+### Measurement
 - Micro-ohmmeter (4-wire) to track resistance while varying contact pressure
 
-**Materials Tested:**
+### Materials Tested
 - Aluminum 6061-T6
 - Aluminum 1100-H14
 - Copper 110-H02
