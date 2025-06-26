@@ -3,6 +3,8 @@ Hi! I’m a mechanical engineering student at the University of Alabama with a p
 
 This portfolio highlights some of my engineering projects across FEA, CFD, design, fabrication, and controls.
 
+Thank you for your patience as this portfolio is actively under development and only a small portion of my projects have been effectively formatted for public viewing as of right now. I am working hard to make the rest of my projects available for display soon!
+
 # Projects
 
 - [Arduino Plant Watering System](./Arduino%20Plant%20Waterer/)
