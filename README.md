@@ -9,6 +9,7 @@ Thank you for your patience as this portfolio is actively under development and 
 
 - [Arduino Plant Watering System](./Arduino%20Plant%20Waterer/)
 - [Busbar Connection Research](./Busbar%20Connection%20Research/)
+- [Cable Dynamics](./Cable%20Dynamics/)
 
 
 # Resume & Links
