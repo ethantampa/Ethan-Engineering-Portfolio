@@ -1,0 +1,11 @@
+Dataset1
+    Natural Frequency: 7.628 Hz
+    Damping Ratio: 0.130
+    First Harmonic: 6.802 Hz
+    Second Harmonic: 15.547 Hz
+    Third Harmonic: 23.709 Hz
+    Fourth Harmonic: 31.094 Hz
+    Fifth Harmonic: 39.450 Hz
+    Logarithmic Decrement: -0.827
+    Any additional data (including wire characterization) can be added below. 
+    
