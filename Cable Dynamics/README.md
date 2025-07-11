@@ -26,5 +26,9 @@ A custom Python script automates the extraction of physical characteristics such
   - Time-domain force and acceleration
   - Frequency-domain magnitude and coherence response
 
+## Data Privacy Note
 
+This project was used to collect and analyze proprietary data as part of an engineering initiative. To protect confidential information, only one nonproprietary example dataset is included in the `Datasets/` folder.
+
+If you wish to test the script with your own data, ensure it follows the same `.tab` format exported by QuickDAQ (with columns for time, force, acceleration, frequency, coherence, and compliance).
 
