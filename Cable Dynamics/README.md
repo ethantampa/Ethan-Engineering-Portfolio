@@ -23,6 +23,6 @@ This project focuses on the **vibrational analysis of electronic cables** throug
 - Plots:
   - Time-domain force and acceleration
   - Frequency-domain magnitude and coherence response
-- Calculates compliance and coherence for validation of modal quality
+
 
 
