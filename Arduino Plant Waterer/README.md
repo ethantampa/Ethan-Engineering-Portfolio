@@ -9,6 +9,7 @@ Welcome to my Arduino-powered Automatic Plant Watering System! This project uses
 - LCD display for live feedback (via I2C module)
 - Status LED indicators (dry/wet/watering)
 - Optional delay between checks to conserve power
+- 3D Printed Casing Designed in Autodesk Fusion (Fusion 360)
 
 ## Hardware Used
 
