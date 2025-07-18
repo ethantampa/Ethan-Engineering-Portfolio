@@ -25,7 +25,7 @@ Welcome to my Arduino-powered Automatic Plant Watering System! This project uses
 
 - `plant_watering.ino` — main Arduino code
 - `README.md` — project overview (this file)
-- [`System Diagram` — circuit layout](./Arduino%20Plant%20Waterer/System%20Diagram)
+- [`System Diagram` — circuit layout](Arduino Plant Waterer/System Diagram)
 - ['Media' - photos that show my project's journey](./Arduino%20Plant%20Waterer/Media)
 
 ## How It Works
