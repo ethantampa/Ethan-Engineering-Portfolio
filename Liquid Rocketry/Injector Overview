@@ -1,0 +1,13 @@
+# High Level Design Requirements
+Fuel: Kerosene
+Oxidizer: Liquid Oxygen 
+Oxidizer/Fuel Ratio: 2.7
+TCA Cooling Method: Ablation
+
+Combustion Chamber Pressure: 450 PSI
+Pressure Drop Across Injector: 90 PSI (20% of 450 PSI)
+
+Burn Time: 10 seconds
+Total Mass Flow Rate: 5.154 lbm/s*
+Thrust: 1171.577 lbf*
+* Based on Thermochemistry Code Outside Scope of Document
